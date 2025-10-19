@@ -1,0 +1,2 @@
+copy ert_main.c and makefile into the piCtrl_ert_rtw folder 
+Follow the instructions in makefile to compile and execute the built main.exe
